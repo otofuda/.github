@@ -1,6 +1,6 @@
 ## Otofuda Project
 
-OTOFUDA Open Source Projects
+[OTOFUDA Open Source Projects](https://otofuda.github.io)
 
-- 🏠 Website: https://www.ne.senshu-u.ac.jp/~proj2019-13/
+- 🏠 Website: https://otofuda.com/
 - 🎬 YouTube Channel: https://www.youtube.com/channel/UC9G3cMsWdkGC6QJz1EbczBg
